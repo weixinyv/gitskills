@@ -1,3 +1,6 @@
 this is the main test.txt
 this is the dev test.txt
 this is the main drop and all txt
+this is the third line.
+Please remember add and commit .
+this is the feature1 content
